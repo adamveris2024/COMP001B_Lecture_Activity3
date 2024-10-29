@@ -1,0 +1,24 @@
+nav, main, aside {
+    float: left;
+}
+
+nav {
+    width: 15%;
+}
+
+main {
+    width: 70%;
+}
+
+aside {
+    width: 15%;
+}
+
+a {
+    font-size: 25px;
+}
+
+footer {
+    clear: left;
+    padding-top: 100px;
+}
